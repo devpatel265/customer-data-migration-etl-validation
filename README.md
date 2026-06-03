@@ -173,12 +173,6 @@ reports/data_quality_report.txt
 - SQL validation checks
 - Migration documentation
 
-## Interview Explanation
-
-You can explain this project like this:
-
-"I built a beginner-friendly data migration project that simulates moving customer, account, billing, and payment records from legacy CSV files into cleaned target files. I used Python and pandas to extract the source data, clean duplicates and missing values, standardize dates, remove invalid records, and write cleaned CSV outputs. I also added SQL validation queries for row counts, duplicate checks, missing values, and financial totals. This project shows my understanding of ETL, data migration, and data validation."
-
 ## Disclaimer
 
 This project uses sample data only. It is designed for learning and portfolio demonstration.
