@@ -1,0 +1,21 @@
+Customer Data Migration & ETL Validation Report
+================================================
+
+Cleaned row counts:
+- Customers: 7
+- Accounts: 5
+- Bills: 5
+- Payments: 4
+
+Data quality fixes:
+- Removed 1 duplicate customer row(s).
+- Flagged 1 missing customer phone value(s).
+- Fixed 1 invalid date value(s) in created_date.
+- Removed 1 account row(s) with unknown customer IDs.
+- Excluded 2 inactive account row(s).
+- Fixed 1 invalid date value(s) in open_date.
+- Removed 3 bill row(s) with unknown or inactive account IDs.
+- Fixed 1 invalid date value(s) in bill_date.
+- Removed 2 payment row(s) with unknown bill IDs.
+- Fixed 1 invalid date value(s) in payment_date.
+- Removed 2 payment row(s) with invalid payment amounts.

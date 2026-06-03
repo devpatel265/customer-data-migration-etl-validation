@@ -1,0 +1,5 @@
+payment_id,bill_id,payment_date,payment_amount,payment_method
+P9001,B5001,2023-03-10,120.5,Credit Card
+P9002,B5002,2023-03-15,85.75,ACH
+P9004,B5005,2023-05-28,150.0,Credit Card
+P9006,B5006,,95.0,Cash

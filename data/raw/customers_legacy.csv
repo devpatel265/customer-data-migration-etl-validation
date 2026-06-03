@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,phone,created_date
+C001,John,Smith,john.smith@email.com,555-123-4567,01/15/2023
+C002,Maria,Garcia,,5559876543,2023-02-10
+C003,Aisha,Khan,aisha.khan@email.com,,March 5 2023
+C004,Robert,Brown,robert.brown@email.com,555-222-3333,2023/04/18
+C005,Linda,Williams,linda.williams@email.com,555-444-5555,05-22-2023
+C002,Maria,Garcia,maria.garcia@email.com,5559876543,2023-02-10
+C006,James,Wilson,james.wilson@email.com,555-777-8888,not a date
+C007,Emma,Davis,emma.davis@email.com,555-111-2222,2023-07-01

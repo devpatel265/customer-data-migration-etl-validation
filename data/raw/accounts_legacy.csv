@@ -1,0 +1,9 @@
+account_id,customer_id,account_type,status,open_date,balance
+A1001,C001,Checking,Active,2023-01-20,1250.75
+A1002,C002,Savings,Active,02/15/2023,3400.00
+A1003,C003,Checking,Inactive,2023/03/08,0.00
+A1004,C004,Credit,Active,April 20 2023,980.25
+A1005,C005,Savings,Active,05-25-2023,2500.50
+A1006,C006,Checking,Active,bad date,900.00
+A1007,C008,Checking,Active,2023-08-01,450.00
+A1008,C007,Credit,Inactive,2023-07-05,300.00
