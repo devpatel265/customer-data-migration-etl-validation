@@ -173,6 +173,3 @@ reports/data_quality_report.txt
 - SQL validation checks
 - Migration documentation
 
-## Disclaimer
-
-This project uses sample data only. It is designed for learning and portfolio demonstration.
