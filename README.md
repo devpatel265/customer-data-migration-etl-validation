@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project simulates a small customer data migration.
+This project simulates a customer data migration.
 
 Legacy customer, account, billing, and payment data starts in messy CSV files. A Python ETL script reads those files, cleans the data, validates common issues, and writes cleaned target CSV files.
 
