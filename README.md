@@ -1,7 +1,5 @@
 # Customer Data Migration & ETL Validation Project
 
-Beginner-friendly portfolio project for an entry-level Data Conversion Engineer role.
-
 ## Project Overview
 
 This project simulates a small customer data migration.
